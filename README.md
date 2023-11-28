@@ -28,3 +28,4 @@
 5. Написать код на C#
 
 # Блок-Схема
+![изображение блок-схемы](https://github.com/PerchatkinaKsenia/FinalTest/blob/main/блок%20схема.jpg)
